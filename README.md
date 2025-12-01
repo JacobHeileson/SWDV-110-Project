@@ -13,6 +13,9 @@ This program features:
 * If statements (if, if else)
 * Loops (For, While, Enhanced For)
 * Arrays
+* Recursion
+* Polymorphism
+* Story Nodes
 
 Jacob Heileson
 Software Development 105
